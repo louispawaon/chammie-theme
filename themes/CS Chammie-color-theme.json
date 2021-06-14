@@ -2,10 +2,10 @@
 	"name": "CS Chammie",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#622a55",
+		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#eabeb5"
 	},
 	"tokenColors": [
 		{
