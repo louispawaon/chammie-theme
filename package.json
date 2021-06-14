@@ -1,0 +1,21 @@
+{
+    "name": "chammie-theme",
+    "displayName": "chammie-theme",
+    "description": "A VSCode Color Theme inspired by the colors of the Computer Science Cluster of AdDUCollege",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CS Chammie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CS Chammie-color-theme.json"
+            }
+        ]
+    }
+}
