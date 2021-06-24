@@ -84,7 +84,17 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#DBEBC0"
+				"foreground": "#ADF7B6"
+			}
+		},
+		{//New
+			"name": "Primitive Variables",
+			"scope": [
+				"storage.type.primitive",
+				"meta.method.identifier"
+			],
+			"settings": {
+				"foreground": "#79ADDC"
 			}
 		},
 		{
@@ -107,6 +117,16 @@
 				"foreground": "#00A6A6"
 			}
 		},
+		{//New
+			"name": "Import",
+			"scope": [
+				"keyword.other.import",
+				"meta.import"
+			],
+			"settings": {
+				"foreground": "#FFEE93"
+			}
+		},
 		{
 			"name": "Tag",
 			"scope": [
@@ -116,6 +136,18 @@
 			],
 			"settings": {
 				"foreground": "#f07178"
+			}
+		},
+		{//New
+			"name": "Class Name",
+			"scope": [
+				"entity.name.type.class",
+				"meta.class.identifier",
+				"meta.class",
+
+			],
+			"settings": {
+				"foreground": "#FFC09F"
 			}
 		},
 		{
