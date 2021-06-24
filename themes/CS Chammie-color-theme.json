@@ -2,13 +2,41 @@
 	"name": "CS Chammie",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#622a55",
+		"editor.background": "#251342",
 		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#eabeb5"
+		"activityBarBadge.background": "#9c417e",
+		"sideBarTitle.foreground": "#d07b95",
+		"sideBar.background": "#3c2069",
+		"sideBarSectionHeader.background": "#3c2069",
+		"activityBar.background": "#402a63",
+		"menu.background": "#251342",
+		"terminal.background": "#251342",
+		"titleBar.activeBackground": "#402a63",
+		"button.background": "#9c417e",
+		"list.inactiveSelectionBackground": "#3c2069",
+		"list.activeSelectionBackground": "#9c417e",
+		"list.hoverBackground": "#7F2CCB",
+		"editorGroupHeader.tabsBackground": "#3c2069",
+		"input.background": "#5C6B73",
+		"input.foreground": "#000000",
+		"inputValidation.errorBackground": "#251342",
+		"inputValidation.errorBorder": "#402a63",
+		"inputValidation.infoBackground": "#251342",
+		"inputValidation.infoBorder": "#402a63",
+		"inputValidation.warningBackground": "#251342",
+		"inputValidation.warningBorder": "#402a63",
+		"editorWidget.background": "#3c2069",
+		"editorWidget.foreground": "#E0FBFC",
+		"badge.background": "#9c417e",
+		"dropdown.background": "#251342",
+		"dropdown.border": "#402a63",
+		"dropdown.listBackground": "#251342",
+		"tab.inactiveBackground": "#3c2069",
+		
+			
 	},
 	"tokenColors": [
-		{
+		{	
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -16,7 +44,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#77A0A9"
 			}
 		},
 		{
@@ -26,7 +54,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#F9DAD0"
 			}
 		},
 		{
@@ -56,7 +84,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#DBEBC0"
 			}
 		},
 		{
@@ -76,7 +104,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00A6A6"
 			}
 		},
 		{
@@ -100,7 +128,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#91C4F2"
 			}
 		},
 		{
@@ -135,7 +163,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#E39774"
 			}
 		},
 		{
