@@ -1,13 +1,33 @@
 {
     "name": "chammie-theme",
-    "displayName": "chammie-theme",
+    "displayName": "AdDU CS Cluster Theme",
     "description": "A VSCode Color Theme inspired by the colors of the Computer Science Cluster of AdDUCollege",
+    "publisher": "tremor6916",
+    "author": {
+        "name": "Louis Miguel Pawaon"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tremor6916/chammie-theme"
+    },
+    "icon": "",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "chammie theme",
+        "computer studies",
+        "ateneo",
+        "cs cluster",
+        "chameleons",
+        "chameleon",
+        "purple",
+        "violet",
+        "dark theme"
     ],
     "contributes": {
         "themes": [
