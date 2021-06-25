@@ -32,6 +32,7 @@
 		"dropdown.border": "#402a63",
 		"dropdown.listBackground": "#251342",
 		"tab.inactiveBackground": "#3c2069",
+		"statusBar.background": "#402a63"
 		
 			
 	},
@@ -44,7 +45,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#77A0A9"
+				"foreground": "#54F2F2"
 			}
 		},
 		{
@@ -84,7 +85,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ADF7B6"
+				"foreground": "#52FFB8"
 			}
 		},
 		{//New
@@ -94,7 +95,7 @@
 				"meta.method.identifier"
 			],
 			"settings": {
-				"foreground": "#79ADDC"
+				"foreground": "#97DFFC"
 			}
 		},
 		{
@@ -114,7 +115,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00A6A6"
+				"foreground": "#D4C2FC"
 			}
 		},
 		{//New
@@ -122,6 +123,16 @@
 			"scope": [
 				"keyword.other.import",
 				"meta.import"
+			],
+			"settings": {
+				"foreground": "#FFEE93"
+			}
+		},
+		{//New
+			"name": "Import Library",
+			"scope": [
+				"keyword.control.import"
+				
 			],
 			"settings": {
 				"foreground": "#FFEE93"
@@ -160,7 +171,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#91C4F2"
+				"foreground": "#EF798A"
 			}
 		},
 		{
@@ -261,6 +272,21 @@
 			],
 			"settings": {
 				"foreground": "#FF5370"
+			}
+		},
+		{//New
+			"name": "Variable Naming",
+			"scope": [
+				"variable.other.definition",
+				"meta.definition.variable",
+				"meta.method.body",
+				"meta.method",
+				"meta.class.body",
+				"meta.class",
+				"meta.function-call"
+			],
+			"settings": {
+				"foreground": "#A1E44D"
 			}
 		},
 		{
