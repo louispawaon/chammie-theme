@@ -53,3 +53,8 @@ JavaScript
 <img src="https://github.com/tremor6916/chammie-theme/blob/master/images/documentation/Notification.png?raw=true">
 <br>
 <br>
+
+<h1><b><i>Additional Information</i></b></h1>
+<p>This is still a work in progress! If you have certain issues and problems encountered please place it <a href="https://github.com/tremor6916/chammie-theme/issues"><b>by clicking this link</b></a></p> or by emailing me through my <a href="mailto:lpawaon@gmail.com"><b>email address</b></a>.
+
+<!--add link for rating if napost na sa extensions>
