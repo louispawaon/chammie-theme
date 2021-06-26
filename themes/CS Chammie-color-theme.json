@@ -32,7 +32,8 @@
 		"dropdown.border": "#402a63",
 		"dropdown.listBackground": "#251342",
 		"tab.inactiveBackground": "#3c2069",
-		"statusBar.background": "#402a63"
+		"statusBar.background": "#402a63",
+		"statusBar.debuggingBackground": "#d07b95"
 		
 			
 	},
