@@ -22,6 +22,9 @@
 <br>
 <h1><i>Currently Supported Languages</i></h1>
 <p>
+Most languages should provide reasonably well-defined colouring, though due to the TextMate grammars not really using a standardised way of tokenising the code there might be slight deviations. The team manually adjusted the theme to adapt well with these programming languages:
+<br>
+<br>
 Java
 <br>
 Python
@@ -36,3 +39,17 @@ JavaScript
 </p>
 <br>
 <h1><i>Screenshots</i></h1>
+
+<h2><b><i>UI</i></b></h2>
+<img src="https://github.com/tremor6916/chammie-theme/blob/master/images/documentation/UI.png?raw=true">
+<br>
+<h2><b><i>Help Dialog</i></b></h2>
+<img src="https://github.com/tremor6916/chammie-theme/blob/master/images/documentation/Help.png?raw=true">
+<br>
+<h2><b><i>Find and Replace</i></b></h2>
+<img src="https://github.com/tremor6916/chammie-theme/blob/master/images/documentation/FindReplace.png?raw=true">
+<br>
+<h2><b><i>Notifications</i></b></h2>
+<img src="https://github.com/tremor6916/chammie-theme/blob/master/images/documentation/Notification.png?raw=true">
+<br>
+<br>
