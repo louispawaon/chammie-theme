@@ -4,11 +4,12 @@
 
 <p>AdDU's <a href="https://twitter.com/ADDU_CS">CS Cluster</a> is comprised with the shades of purple and with their mascot, the <a href="https://twitter.com/ADDU_CS/status/1270297053193625605">chameleon</a>, which reflects the adaptability and uniqueness of individuals.
 <br>
-<!---insert gif here -->
+<br>
+<img src="https://github.com/tremor6916/chammie-theme/blob/master/images/chammiedocu.gif?raw=true"/>
 
 <h1>Installation Guide</h1>
 <br>
-<h1>Supported Languages</h1>
+<h1>Currently Supported Languages</h1>
 <p>
 Java
 <br>
