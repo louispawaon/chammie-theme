@@ -33,7 +33,10 @@
 		"dropdown.listBackground": "#251342",
 		"tab.inactiveBackground": "#3c2069",
 		"statusBar.background": "#402a63",
-		"statusBar.debuggingBackground": "#d07b95"
+		"statusBar.debuggingBackground": "#d07b95",
+		"minimap.findMatchHighlight": "#9c417e",
+		"editor.findMatchBackground": "#d07b95",
+		"editor.findMatchHighlightBackground": "#B2A3B5",
 		
 			
 	},
@@ -46,7 +49,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#54F2F2"
+				"foreground": "#D4CDAB"
 			}
 		},
 		{
