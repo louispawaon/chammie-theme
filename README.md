@@ -2,7 +2,7 @@
 
 <p><b>CS Chammie</b> is a dark purple theme inspired by the colors of the Computer Science Cluster of Ateneo de Davao University College</p>
 
-<p>AdDU's <b><a href="https://twitter.com/ADDU_CS">CS Cluster</a></b> is comprised with the shades of purple and with their mascot, the <b><a href="https://twitter.com/ADDU_CS/status/1270297053193625605">chameleon</a></b>, which reflects the adaptability and uniqueness of individuals.
+<p>AdDU's <b><a href="https://twitter.com/ADDU_CS">CS Cluster</a></b> is comprised with the shades of purple and with their mascot, the <b><a href="https://twitter.com/ADDU_CS/status/1409090015557083138">chameleon</a></b>, which reflects the adaptability and uniqueness of individuals.
 <br>
 <br>
 <img src="https://github.com/tremor6916/chammie-theme/blob/master/images/chammiedocu.gif?raw=true"/>
@@ -18,7 +18,7 @@
 <br>
 4. Click <b>Reload</b> to reload your editor.
 <br>
-5. Code/File > Preferences > Color Theme > <b>CS Chammie</b></p>
+5. File > Preferences > Color Theme > <b>CS Chammie</b></p>
 <br>
 <h1><i>Currently Supported Languages</i></h1>
 <p>
@@ -56,5 +56,10 @@ JavaScript
 
 <h1><b><i>Additional Information</i></b></h1>
 <p>This is still a work in progress! If you have certain issues and problems encountered please place it <a href="https://github.com/tremor6916/chammie-theme/issues"><b>by clicking this link</b></a></p> or by emailing me through my <a href="mailto:lpawaon@gmail.com"><b>email address</b></a>.
+
+<br>
+<h1><b><i>Acknowledgement</i></b></h1>
+<p>I would humbly like to thank the people who has supported me with this project, specially my friends who gave feedbacks to make this project a better work in progress.</p>
+
 
 <!--add link for rating if napost na sa extensions>
