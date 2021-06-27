@@ -57,6 +57,8 @@ JavaScript
 <h1><b><i>Additional Information</i></b></h1>
 <p>This is still a work in progress! If you have certain issues and problems encountered please place it <a href="https://github.com/tremor6916/chammie-theme/issues"><b>by clicking this link</b></a></p> or by emailing me through my <a href="mailto:lpawaon@gmail.com"><b>email address</b></a>.
 <br>
+Consider rating my work in the marketplace or in the extensions tab of VSCode!
+<br>
 <br>
 <h1><b><i>Acknowledgement</i></b></h1>
 <p>I would humbly like to thank the people who has supported me with this project, specially my friends who gave feedbacks to make this project a better work in progress.</p>
@@ -79,7 +81,3 @@ JavaScript
 <a href="https://twitter.com/Jayinnhahn">
 <img src="https://scontent.fdvo4-1.fna.fbcdn.net/v/t1.6435-9/122896530_2501897936609087_2090084136733952397_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHGfxy5p7EvVXDM3ANMKi52GG4SOvb_bTEYbhI69v9tMXwnUXkrOzYTIVv6pbUxH5cCp5VRGKO7XQDWK8ZrTBRb&_nc_ohc=3go6XTDUkowAX8ISh4m&_nc_ht=scontent.fdvo4-1.fna&oh=7a7df5ab3db84fccd7db7f2d904f6aa6&oe=60DE3206"width=40 height=40>
 </a>
-
-
-
-<!--add link for rating if napost na sa extensions>
