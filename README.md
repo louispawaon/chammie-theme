@@ -70,5 +70,16 @@ JavaScript
 <a href="https://twitter.com/vvrbngag">
 <img src="https://scontent.fdvo4-1.fna.fbcdn.net/v/t1.6435-9/179907725_4553992104615994_1757771346363303381_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHUSJpZIKqogWCGIUQlLjv-8kdTfj-f1PDyR1N-P5_U8B9JNcEFGu5KJlaU4uY4OtZMw5k4rhCGaz8Yr0KWt_Yy&_nc_ohc=NxvAXkorGX4AX-8cRJG&_nc_ht=scontent.fdvo4-1.fna&oh=789d86676fd07c98d1c609e7b036ec72&oe=60DCDEC0" width=40 height=40>
 </a>
+<a href="https://twitter.com/charleeesstrazo">
+<img src="https://pbs.twimg.com/profile_images/1408882303762268162/fAH20q7V_400x400.jpg"width=40 height=40>
+</a>
+<a href="https://twitter.com/Jpmatayabas">
+<img src="https://pbs.twimg.com/profile_images/1383204199563886592/c-YGjywq_400x400.jpg"width=40 height=40>
+</a>
+<a href="https://twitter.com/Jayinnhahn">
+<img src="https://scontent.fdvo4-1.fna.fbcdn.net/v/t1.6435-9/122896530_2501897936609087_2090084136733952397_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHGfxy5p7EvVXDM3ANMKi52GG4SOvb_bTEYbhI69v9tMXwnUXkrOzYTIVv6pbUxH5cCp5VRGKO7XQDWK8ZrTBRb&_nc_ohc=3go6XTDUkowAX8ISh4m&_nc_ht=scontent.fdvo4-1.fna&oh=7a7df5ab3db84fccd7db7f2d904f6aa6&oe=60DE3206"width=40 height=40>
+</a>
+
+
 
 <!--add link for rating if napost na sa extensions>
