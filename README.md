@@ -60,6 +60,8 @@ JavaScript
 <br>
 <h1><b><i>Acknowledgement</i></b></h1>
 <p>I would humbly like to thank the people who has supported me with this project, specially my friends who gave feedbacks to make this project a better work in progress.</p>
-
-
+<br>
+<a href="https://twitter.com/vvrbngag">
+<img src="https://raw.githubusercontent.com/tremor6916/chammie-theme/master/images/documentation/acknowledgement/viver.jpg" width=40 height=40>
+</a>
 <!--add link for rating if napost na sa extensions>
