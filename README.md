@@ -12,7 +12,7 @@
 <p>
 1. Open the extensions sidebar on Visual Studio Code
 <br>
-2. Search for <b>AdDU CS Cluster Theme</b>
+2. Search for <b>Chammie</b>
 <br>
 3. Click <b>Install</b> to install it.
 <br>
