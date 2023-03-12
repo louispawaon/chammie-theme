@@ -40,5 +40,8 @@
                 "path": "./themes/CS Chammie-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "@vscode/vsce": "^2.18.0"
     }
 }
